@@ -1,8 +1,13 @@
 # 🔥 News
-- *2026.07*: 🎉 Our paper on the limits of active reasoning in multimodal large language models appears at **ACL 2026 Main**.
-- *2026.06*: We release [Smooth Scaling Laws Hide Stepwise Token Learning](https://arxiv.org/abs/2606.29858) and its [code](https://github.com/applewpj/token-learning-spectrum).
-- *2026.06*: 🎉 Our first-author work [Mining Useful General Data for Low-Resource Domain Adaptation](https://arxiv.org/abs/2511.07380) appears at **ICML 2026**.
-- *2026*: Honored to serve as an **ICML 2026 Gold Reviewer**.
-- *2025.12*: I join Dots Studio, Xiaohongshu Inc. as a research intern working on pre-training data strategy.
-- *2025.05*: 🎉 [Combatting Dimensional Collapse in LLM Pre-Training Data via Diversified File Selection](https://arxiv.org/abs/2504.20644) is selected as an **ICLR 2025 Oral**.
-- *2025*: [Reconstruct the Pruned Model Without Retraining](https://doi.org/10.1109/JSTSP.2025.3568224) is published in **IEEE JSTSP**.
+- *2026.07*: 🎉 Our latest work [Smooth Scaling Laws Hide Stepwise Token Learning](https://arxiv.org/abs/2606.29858) and its [code](https://github.com/applewpj/token-learning-spectrum) are released!
+- *2026.06*: 🎉 Honored to serve as an **ICML 2026 Gold Reviewer**!
+- *2026.05*: 🎉 Our work [NTK-Selector](https://openreview.net/pdf?id=y1AV6cX8dX) is accepted by **ICML 2026**!
+- *2026.04*: 🎉 Our two works [GuessBench](https://aclanthology.org/2026.acl-long.1264.pdf) and [CrossOmni](https://aclanthology.org/2026.acl-long.1217.pdf) are accepted by **ACL 2026 Main**!
+- *2026.04*: 🎉 Our work [AnchorNet](https://ieeexplore.ieee.org/abstract/document/11471045) is accepted by **IEEE JSTSP**!
+- *2025.11*: 🎉 Our two works [DSVD](https://aclanthology.org/2025.emnlp-main.1050/) is accepted by **EMNLP 2025 Main**, [D2R](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-emnlp.349.pdf) is accepted by **EMNLP 2025 Findings**!
+- *2025.07*: 🎉 Our work [MedOmniKB](https://aclanthology.org/2025.acl-long.742.pdf) is accepted by **ACL 2025 Main**!
+- *2025.05*: 🎉 Our work [DiSF](https://arxiv.org/abs/2504.20644) is accepted by **ICLR 2025 <span style="color: #8B0000;">Oral</span>**!
+- *2025.05*: 🎉 Our work [LIAR](https://ieeexplore.ieee.org/abstract/document/11002425) is accepted by **IEEE JSTSP**!
+- *2025.03*: 🎉 Our work [AuscMLLM](https://doi.org/10.1109/ICASSP49660.2025.10889373) is accepted by **ICASSP 2025 <span style="color: #8B0000;">Oral</span>**!
+- *2024.05*: 🎉 Our two works [P-pruning](https://aclanthology.org/2024.lrec-main.1162.pdf) and [CE-VDG](https://aclanthology.org/2024.lrec-main.264/) are accepted by **COLING 2024**!
+- *2024.04*: 🎉 Our work [MSG-BART](https://ieeexplore.ieee.org/abstract/document/10447469) is accepted by **ICASSP 2024**!

@@ -1,7 +1,15 @@
-I am a Ph.D. student in Information and Communication Engineering at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), with an expected graduation date of June 2027. I received my B.Eng. degree in Electronic Information Engineering from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in June 2022.
+I am a Ph.D. student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), expected to graduate in June 2027. I received my B.Eng. degree from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in June 2022.
 
-My research focuses on **large language model pre-training**, **data strategy**, **scaling laws**, and **model efficiency**. I am particularly interested in understanding how data and individual tokens are learned during pre-training, and in turning these insights into more efficient data selection and training strategies. I also work on model pruning, multimodal reasoning, and AI for healthcare.
+My research focuses on **Data-Centric LLM Training**, **Large Language Model Pre-training**, **Scaling Laws**, and **Model Efficiency**. I am particularly interested in understanding how language models learn from data at the token level during pre-training, and in turning these insights into more efficient data selection and training strategies. I also work on model pruning, multimodal reasoning, and AI for healthcare. My work has been published at ICML, ICLR, IEEE JSTSP, ACL, EMNLP, COLING, ICASSP.
 
 I am currently a research intern with the pre-training data strategy team at Dots Studio, Xiaohongshu Inc. Previously, I was a research intern at Shanghai AI Laboratory from December 2023 to October 2025.
 
-Please feel free to contact me at [applewpj@gmail.com](mailto:applewpj@gmail.com).
+**<span style="color: #8B0000;">I am actively seeking research internships and full-time opportunities. Please feel free to reach out regarding potential openings.</span>**
+
+<p style="text-align: center;">
+<a href="mailto:applewpj@gmail.com">Email</a> /
+<!-- <a href="https://scholar.google.com/citations?user=9dO3guoAAAAJ&amp;hl=en">Google Scholar</a> / -->
+<!-- <a href="https://github.com/applewpj">GitHub</a> / -->
+<a href="https://www.linkedin.com/in/pingjie-wang-106055357/">LinkedIn</a> /
+<a href="images/wechat.jpg">WeChat</a>
+</p>
