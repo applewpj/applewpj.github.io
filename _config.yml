@@ -14,7 +14,7 @@ repository               : "applewpj/applewpj.github.io"
 google_analytics_id      :
 
 # SEO Related
-google_site_verification :
+google_site_verification : "5PraZ7xUz-9QLDW43TYyeRO7okYbrza8eC4LkMM7NHM"
 bing_site_verification   :
 baidu_site_verification  :
 
@@ -122,6 +122,12 @@ defaults:
     values:
       layout: default
       author_profile: true
+  # Content fragments are included in the homepage, not standalone pages.
+  - scope:
+      path: "_pages/includes"
+      type: pages
+    values:
+      sitemap: false
 
 
 # Sass/SCSS
