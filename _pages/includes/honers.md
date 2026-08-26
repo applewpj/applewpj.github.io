@@ -8,7 +8,8 @@
 - Model repeated-data scaling laws under limited-data settings and investigate predictable relationships among model size, training tokens, and repetition.
 - Build language-model-based data selection methods and data scaling ladders for evaluating the scaling value of selected distributions.
 - Develop reusable pipelines for collecting, deduplicating, parsing, reconstructing, and filtering forum data for LLM pre-training. -->
-- 2025.12 - Present, Dots Studio, Xiaohongshu Inc.
+- 2026.8 - Present, Hunyuan Team, Tencent
+- 2025.12 - 2026.8, Dots Studio, Xiaohongshu Inc.
 - 2023.12 - 2025.10, Shanghai Artificial Intelligence Laboratory
 
 <!-- ## Shanghai AI Laboratory

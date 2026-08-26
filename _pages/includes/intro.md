@@ -2,9 +2,9 @@ I am a Ph.D. student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/
 
 My research focuses on **Data-Centric LLM Training**, **Large Language Model Pre-training**, **Scaling Laws**, and **Model Efficiency**. I am particularly interested in understanding how language models learn from data at the token level during pre-training, and in turning these insights into more efficient data selection and training strategies. I also work on model pruning, multimodal reasoning, and AI for healthcare. My work has been published at ICML, ICLR, IEEE JSTSP, ACL, EMNLP, COLING, ICASSP.
 
-I am currently a research intern with the pre-training data strategy team at Dots Studio, Xiaohongshu Inc. Previously, I was a research intern at Shanghai AI Laboratory from December 2023 to October 2025.
+I am currently a research intern with the scaling ladder construction at Hunyuan Team, Tencent. Previously, I was a research intern at Shanghai AI Laboratory from December 2023 to October 2025, and Dots Studio, Xiaohongshu Inc. from December 2025 to August 2026.
 
-**<span style="color: #8B0000;">I am actively seeking research internships and full-time opportunities. Please feel free to reach out regarding potential openings.</span>**
+**<span style="color: #8B0000;">I am actively seeking for full-time opportunities. Please feel free to reach out regarding potential openings!</span>**
 
 <p style="text-align: center;">
 <a href="mailto:applewpj@gmail.com">Email</a> /
