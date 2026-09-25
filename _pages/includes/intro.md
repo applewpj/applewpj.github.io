@@ -1,6 +1,6 @@
 I am a Ph.D. student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), expected to graduate in June 2027. I received my B.Eng. degree from the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in June 2022.
 
-My research focuses on **Data-Centric LLM Training**, **Large Language Model Pre-training**, **Scaling Laws**, and **Model Efficiency**. I am particularly interested in understanding how language models learn from data at the token level during pre-training, and in turning these insights into more efficient data selection and training strategies. I also work on model pruning, multimodal reasoning, and AI for healthcare. My work has been published at NeurIPS, ICML, ICLR, IEEE JSTSP, ACL, EMNLP, COLING, ICASSP.
+My research focuses on **LLM Pre-training**, **Scaling Laws**, **Data Strategy**, and **Model Efficiency**. I am particularly interested in understanding how language models learn from data at the token level during pre-training, and in turning these insights into more efficient training strategies. I also work on model pruning, multimodal reasoning, and AI for healthcare. My work has been published at NeurIPS, ICML, ICLR, IEEE JSTSP, ACL, EMNLP, COLING, ICASSP.
 
 I am currently a research intern with the scaling ladder construction at Hunyuan Team, Tencent. Previously, I was a research intern at Shanghai AI Laboratory and Dots Studio, Xiaohongshu Inc.
 
