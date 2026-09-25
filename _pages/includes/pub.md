@@ -6,14 +6,14 @@
 
 <!-- - `ICLR 2027 Under Review` **Scalable Data Selection via Language-Model Distribution Resampling**, **Pingjie Wang**, Zechen Hu, et al. -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/publications/token-learning-spectrum.jpg' alt="Token-level learning trajectories and learning-time spectrum" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Spotlight</div><img src='images/publications/token-learning-spectrum.jpg' alt="Token-level learning trajectories and learning-time spectrum" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Smooth Scaling Laws Hide Stepwise Token Learning**
 
 **Pingjie Wang**<sup>*</sup>, Zechen Hu<sup>*</sup>, Peiru Yang<sup>*</sup>, Fu Guo, Debing Zhang
 
-_arXiv 2026_
+_NeurIPS 2026 <span style="color: #8B0000;">Spotlight</span>_
 
 [[Paper]](https://arxiv.org/abs/2606.29858) [[Code]](https://github.com/applewpj/token-learning-spectrum)
 
