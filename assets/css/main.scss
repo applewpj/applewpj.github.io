@@ -109,10 +109,12 @@ h1:before, .anchor:before {
 }
 
 .experience-list {
+    width: 100%;
     margin: .5em 0 1em;
     padding-left: 1.25em;
 
     li {
+        width: 100%;
         margin-bottom: .7em;
     }
 }
@@ -121,6 +123,7 @@ h1:before, .anchor:before {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    width: 100%;
     column-gap: 1.5rem;
 
     strong {
