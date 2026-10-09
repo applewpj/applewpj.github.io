@@ -8,6 +8,7 @@
 
 <h1 id="academic-service">🧑‍⚖️ Academic Service</h1>
 
+- **NeurIPS 2026 Top Reviewer**.
 - **ICML 2026 Gold Reviewer**.
 - Invited reviewer for NeurIPS, ICML, ICLR, ACL, EMNLP, IEEE TPAMI, and IEEE JSTSP.
 

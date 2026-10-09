@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.10*: 🎉 Honored to serve as an **NeurIPS 2026 Top Reviewer**!
 - *2026.09* 🎉 Our latest work [Smooth Scaling Laws Hide Stepwise Token Learning](https://arxiv.org/abs/2606.29858) has been accepted to **NeurIPS 2026 <span style="color: #8B0000;"> Spotlight (0.95%)</span>**!
 - *2026.07*: 🎉 Our latest work [Smooth Scaling Laws Hide Stepwise Token Learning](https://arxiv.org/abs/2606.29858) and its [code](https://github.com/applewpj/token-learning-spectrum) are released!
 - *2026.06*: 🎉 Honored to serve as an **ICML 2026 Gold Reviewer**!
